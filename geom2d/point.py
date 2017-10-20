@@ -12,4 +12,4 @@ class Point:
          return sqrt(dx*dx + dy*dy)
 
     def __eq__(self, other):
-        return self.x == other.x and self.y == other.y
+       return self.x == other.x and self.y == other.y
